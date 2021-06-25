@@ -5,8 +5,8 @@ Created on Fri Jun 25 19:24:37 2021
 @author: Saadia Bayou
 """
 
-""" TP2 MEC 101 Cnam , Etude de convergence 
-    Plaque trouée en trcation  """
+""" Etude de convergence 
+    Plaque percée en traction  """
 
 # imports bibliothèques Python
 import numpy as np
